@@ -5,7 +5,7 @@ title: MULTIPOLAR
 
 # MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics [IJCAI'20]
 
-### [Mohammadamin Barekatain](http://barekatain.me/), [Ryo Yonetani](https://yonetaniro.github.io/), and [Masashi Hamaya](https://sites.google.com/view/masashihamaya/home) [(OMRON SINIC X)](https://www.omron.com/sinicx/)
+### [Mohammadamin Barekatain](http://barekatain.me/), [Ryo Yonetani](https://yonetaniryo.github.io/), and [Masashi Hamaya](https://sites.google.com/view/masashihamaya/home) [(OMRON SINIC X)](https://www.omron.com/sinicx/)
 
 ### [Paper](https://arxiv.org/abs/1909.13111) \| [Code](https://github.com/Mohammadamin-Barekatain/multipolar)
 
